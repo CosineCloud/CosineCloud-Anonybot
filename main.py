@@ -7,6 +7,18 @@ import requests
 import random
 import psutil
 import subprocess
+
+#|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+#                       Install Pillow
+#|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+try:
+    subprocess.check_call(['pip', 'install', 'pillow'])
+    print("Pillow installed successfully!")
+except subprocess.CalledProcessError as e:
+    print("Error installing Pillow:", e)
+
+
 import pickle
 import platform
 import shutil
@@ -34,6 +46,7 @@ keep_alive()
 bot = telebot.TeleBot("5768243722:AAGuPYWlGCH9x7I-N5bJ3u6royTuEfQ5ZFw")
 bot.send_message('584429967', '🌀Welcome to Anonymous Chats!!')
 print('🌀Welcome to Anonymous Chats!!')
+
 
 #|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 #                       Auto Start DB Manager
