@@ -7,18 +7,6 @@ import requests
 import random
 import psutil
 import subprocess
-
-#|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-#                       Install Pillow
-#|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-
-try:
-    subprocess.check_call(['pip', 'install', 'pillow'])
-    print("Pillow installed successfully!")
-except subprocess.CalledProcessError as e:
-    print("Error installing Pillow:", e)
-
-
 import pickle
 import platform
 import shutil
@@ -32,9 +20,9 @@ from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton ,ReplyKeyboardMarkup
 import pandas as pd    
 import numpy as np
-from PIL import Image
-from PIL import ImageFont
-from PIL import ImageDraw
+#from PIL import Image
+#from PIL import ImageFont
+#from PIL import ImageDraw
 from pyzbar import pyzbar
 from better_profanity import profanity
 import sqlite3
