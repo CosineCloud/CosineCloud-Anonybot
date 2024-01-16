@@ -1,3 +1,60 @@
+import subprocess
+
+required_modules = [
+    'os',
+    'sys',
+    'telebot',
+    'datetime',
+    'time',
+    'requests',
+    'random',
+    'psutil',
+    'subprocess',
+    'pickle',
+    'platform',
+    'shutil',
+    'random',
+    'qrcode',
+    'base64',
+    'ast',
+    'exit',
+    'Thread',
+    'types',
+    'InlineKeyboardMarkup',
+    'InlineKeyboardButton',
+    'ReplyKeyboardMarkup',
+    'pd',
+    'np',
+    'Image',
+    'ImageFont',
+    'ImageDraw',
+    'pyzbar',
+    'profanity',
+    'sqlite3',
+    'tabulate',
+    'keep_alive'
+]
+
+def install_module(module):
+    try:
+        subprocess.check_call(['pip', 'install', module])
+        print(f"Installed {module} successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"Error installing {module}: {e}")
+
+def check_and_install_modules():
+    for module in required_modules:
+        try:
+            __import__(module)
+            print(f"{module} is already installed.")
+        except ImportError:
+            print(f"{module} is not installed. Installing...")
+            install_module(module)
+
+if __name__ == "__main__":
+    check_and_install_modules()
+
+
 import os
 import sys
 import telebot
@@ -6,7 +63,7 @@ import time
 import requests
 import random
 import psutil
-import subprocess
+#import subprocess
 import pickle
 import platform
 import shutil
