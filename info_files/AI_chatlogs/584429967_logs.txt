@@ -1,0 +1,29 @@
+Talha[584429967]-(10/01/2024 16:56:55)- Hry
+AI[999]-(10/01/2024 16:57:01)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!
+Talha[584429967]-(10/01/2024 16:57:19)- Heya
+AI[999]-(10/01/2024 16:57:22)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!
+Talha[584429967]-(11/01/2024 09:27:18)- Hello
+AI[999]-(11/01/2024 09:27:24)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!
+Talha[584429967]-(14/01/2024 03:27:36)- Hey
+AI[999]-(14/01/2024 03:27:41)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!
+Talha[584429967]-(14/01/2024 03:31:03)- Hey
+AI[999]-(14/01/2024 03:31:10)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!
+Talha[584429967]-(14/01/2024 03:32:42)- Hey
+Talha[584429967]-(14/01/2024 03:33:19)- Dcc
+Talha[584429967]-(14/01/2024 03:34:27)- Vxg
+Talha[584429967]-(14/01/2024 03:34:54)- Cxg
+AI[999]-(14/01/2024 03:35:10)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!  You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.  You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface.   Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`  A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742 
+Talha[584429967]-(14/01/2024 03:39:26)- Vdg
+AI[999]-(14/01/2024 03:39:39)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!  You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.  You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface.   Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`  A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742 
+Talha[584429967]-(14/01/2024 03:40:39)- Fscv
+AI[999]-(14/01/2024 03:40:51)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!  You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.  You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface.   Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`  A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742 
+Talha[584429967]-(14/01/2024 04:02:56)- Hey
+AI[999]-(14/01/2024 04:03:09)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!  You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.  You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface.   Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`  A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742 
+Talha[584429967]-(14/01/2024 04:03:16)- Hey
+AI[999]-(14/01/2024 04:03:28)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!  You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.  You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface.   Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`  A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742 
+Talha[584429967]-(14/01/2024 10:27:05)- Hey
+AI[999]-(14/01/2024 10:27:11)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations
+Talha[584429967]-(14/01/2024 10:29:42)- Hey
+AI[999]-(14/01/2024 10:29:48)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations
+Talha[584429967]-(14/01/2024 10:30:27)- Hey
+AI[999]-(14/01/2024 10:30:33)- ⚠️ 𝗔𝗜 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗼𝘃𝗲𝗿𝗹𝗼𝗮𝗱𝗲𝗱 !!   𝗣𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗹𝗮𝘁𝗲𝗿!!Your account is not active, please check your billing details on our website.
