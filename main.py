@@ -20,9 +20,9 @@ from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton ,ReplyKeyboardMarkup
 import pandas as pd    
 import numpy as np
-#from PIL import Image
-#from PIL import ImageFont
-#from PIL import ImageDraw
+from PIL import Image
+from PIL import ImageFont
+from PIL import ImageDraw
 from pyzbar import pyzbar
 from better_profanity import profanity
 import sqlite3
